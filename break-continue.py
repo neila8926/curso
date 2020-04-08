@@ -1,8 +1,8 @@
 #imprimir solo letras A
 for letras in "Holanda":
     if letras=="a":
-        print(letras)
-        break
+        print("Hola Letra",letras)
+        
 else:
     print("Fin ciclo For")
 
